@@ -9,11 +9,16 @@
 * [Badges](#badges)
 * [índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 # ▷ Descrição do Projeto
 Projeto desenvolvido para criação de uma landing page, usando das tecnologias HTML e CSS. O Bot Sete, é uma representação visual e ilustrativa de um bot.
+
+# ▷ Acesso ao Projeto
+Você pode acessar o projeto, por meio do link:
+https://anagiulias.github.io/Bot-Sete--Landing-Page/
 
 # ▷ Tecnologias utilizadas
 * HTML
